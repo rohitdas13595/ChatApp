@@ -40,8 +40,6 @@ This is simple chat App. Where you can created rooms and chat accordingly with y
 
 [<img align="left" alt="Node Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />][nodejs]
 [<img align="left" alt="Express" width="22px" src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" />][expressjs]
-[<img align="left" alt="WeatherStack" width="22px" src="https://i2.wp.com/www.titanui.com/wp-content/uploads/2013/08/19/High-Quality-Climate-Weather-Icons-PSD.jpg" />][weatherstack]
-[<img align="left" alt="Node Js" width="22px" src="https://obedalvarado.pw/blog/wp-content/uploads/2020/04/mapbox-icon-300x300.png" />][mapbox]
 
 <br />
 
@@ -52,7 +50,5 @@ This is simple chat App. Where you can created rooms and chat accordingly with y
 [website]: https://codeSTACKr.com
 [instagram]: https://www.instagram.com/l.m.rohit.das
 [linkedin]: https://www.linkedin.com/in/rohit-kumar-d-89ba021b3
-[weatherstack]: https://weatherstack.com
-[mapbox]: https://www.mapbox.com
 [nodejs]: https://nodejs.org/en
 [expressjs]: https://expressjs.com
